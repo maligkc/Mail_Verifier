@@ -31,7 +31,7 @@ Proje, paylaşılan örnek CSV dosyasındaki ";" ayırıcısını ve sütun yap�
 # Kurulum ve Çalıştırma
 git clone https://github.com/maligkc/Mail_Verifier.git
 
-cd email-verifier-pro
+cd Mail_Verifier
 
 pip install flask flask-cors dnspython
 
